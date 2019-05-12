@@ -1,4 +1,4 @@
-# Scope Lab
+``# Scope Lab
 
 ## Objectives
 1. Understand the difference between `const` and `let`
